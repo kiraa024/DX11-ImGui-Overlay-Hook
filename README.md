@@ -31,7 +31,7 @@ Usage
 Notes
 - DX11 only
 - Not compatible with DX12 or Vulkan
-- Intended for offline or test applications only
+- Intended for offline or test applications only (Works with Grand Theft Auto V Legacy)
 - Not meant for protected or online games
 
 Inspiration
@@ -40,6 +40,7 @@ Based on public DX11 ImGui and MinHook examples. Implementation and structure ad
 Credits
 - ImGui by ocornut
 - MinHook by TsudaKageyu
+- DX11Hook by CasualCoder91 (https://github.com/CasualCoder91/DX11Hook)
 
 Disclaimer
 For educational purposes only. The author is not responsible for misuse.
