@@ -1,4 +1,4 @@
-DX11 ImGui Overlay Hook
+# DX11 ImGui Overlay Hook
 
 A simple DirectX 11 overlay using ImGui and MinHook. It hooks IDXGISwapChain::Present and renders an ImGui interface on top of a DX11 application. This project is intended for learning and testing purposes.
 
