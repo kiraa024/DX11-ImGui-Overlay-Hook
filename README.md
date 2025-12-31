@@ -31,7 +31,7 @@ Usage
 Notes
 - DX11 only
 - Not compatible with DX12 or Vulkan
-- Intended for offline or test applications only (Works with Grand Theft Auto V Legacy)
+- Intended for offline or test applications only (Works with Grand Theft Auto V Legacy, not safe for Online.)
 - Not meant for protected or online games
 
 Inspiration
@@ -44,3 +44,4 @@ Credits
 
 Disclaimer
 For educational purposes only. The author is not responsible for misuse.
+Note, i made this with the Help of AI. this is my first Real C++ Project. the Code Might be bad.
